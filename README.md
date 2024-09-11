@@ -1,6 +1,6 @@
 # HNUSTCASAutoLogin
 
-HNUSTCASAutoLogin是一个用于自动登录湖南科技大学统一身份认证平台的油猴脚本。该脚本使用JavaScript编写，可以在支持用户脚本的浏览器上运行。
+[HNUSTCASAutoLogin](https://github.com/3210448723/HNUSTAutoLogin)是一个用于自动登录湖南科技大学统一身份认证平台的油猴脚本。该脚本使用JavaScript编写，可以在支持用户脚本的浏览器上运行。
 
 ## 功能
 
