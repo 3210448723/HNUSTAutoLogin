@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         HNUSTCASAutoLogin
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/3210448723/HNUSTAutoLogin
 // @version      1.0
 // @description  自动登录“湖南科技大学统一身份认证平台”油猴脚本
 // @author       YJM
 // @match        *://*.hnust.edu.cn/*
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function () {
